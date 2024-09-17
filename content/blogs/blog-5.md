@@ -1,7 +1,7 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+title: "1er Año"
+description: "en este espacio..."
+image: "/images/deco.png"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
@@ -10,7 +10,11 @@ draft: false
 
 Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
-# Heading 1
+# 1er cuatrimestre
+
+1. Pensamiento Científico
+2. Pensamiento Computacional
+3. Análisis Matemático
 
 ## Heading 2
 

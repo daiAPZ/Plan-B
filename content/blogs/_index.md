@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
-description: "this is meta description"
+title: "Ingenieria en informatica"
+description: "1er Cuatrimestre"
 ---
