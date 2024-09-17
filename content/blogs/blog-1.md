@@ -38,15 +38,15 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ##### Link
 
-[I'm an inline-style link](https://www.google.com)
+[link click](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[preciona aqui ugu](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+[link con sabiduria ahre][arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[probando estas weas...](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[Y aqui no se que dice o mas bien no se pa que es xdxd][1]
 
 Or leave it empty and use the [link text itself].
 
@@ -62,17 +62,17 @@ Some text to show that the reference links can follow later.
 
 ##### Paragraph
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+para entender la historia de faina freddi hay que tener en cuenta de que miau xd
 
 ---
 
 ##### Ordered List
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+1. carrera 1
+2. carrera 2
+3. no se un listado..
+4. colectivo..
+5. deciciones...
 
 ---
 
@@ -113,10 +113,10 @@ print s
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>definir lista</dt>
+  <dd>gatitos voladores</dd>
 
-  <dt>Markdown in HTML</dt>
+  <dt>perritos voladores</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
