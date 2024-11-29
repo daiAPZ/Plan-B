@@ -3,7 +3,7 @@
     "title": "jesica",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/deco.png",
     "logo_width": "200",
     "logo_height": "48",
     "logo_text": "jesica uwu"
@@ -17,14 +17,14 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "holaa",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "params en config.json",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 

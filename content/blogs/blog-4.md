@@ -1,7 +1,7 @@
 ---
 title: "Ciencias de Datos"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/1er Cuatrimestre.png"
+image: "/images/ciencias_de_datos.png"
 date: 2022-07-04T05:00:00Z
 draft: false
 ---

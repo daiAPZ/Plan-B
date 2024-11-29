@@ -18,8 +18,10 @@ const Header = () => {
 
   // logo source
   const { logo } = config.site;
-  const { enable, label, link } = config.nav_button;
-
+  const { enable, label, link } = config;
+ // const { enable, label, link } = config.nav_button;
+  // si elimino el ".nav_button" se borra el boton verde que esta en el menu de home
+  // el de "holaa"
   return (
     <header className="header">
       <nav className="navbar container">

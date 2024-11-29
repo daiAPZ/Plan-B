@@ -1,7 +1,7 @@
 ---
 title: "Ciencias Biológicas"
 description: "en este espacio..."
-image: "/images/deco.png"
+image: "/images/ciencias_biologicas.png"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---

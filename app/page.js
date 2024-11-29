@@ -11,7 +11,7 @@ import { getListPage } from "../lib/contentParser";
 const Home = async () => {
   const homePage = await getListPage("content/_index.md");
   const { frontmatter } = homePage;
-  const { banner, feature, services, workflow, call_to_action } = frontmatter;
+  const { banner, call_to_action } = frontmatter;
   const { title } = config.site;
 
   return (
@@ -20,15 +20,6 @@ const Home = async () => {
 
       {/* Banner */}
       <HomeBanner banner={banner} />
-
-      {/* Features */}
-      <HomeFeatures feature={feature} />
-
-      {/* services */}
-      <Services services={services} />
-
-      {/* workflow */}
-      <Workflow workflow={workflow} />
 
       {/* Cta */}
       <Cta cta={call_to_action} />
