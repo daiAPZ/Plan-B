@@ -1,5 +1,5 @@
 ---
-title: "1er Año"
+title: "Ciencias Biológicas"
 description: "en este espacio..."
 image: "/images/deco.png"
 date: 2022-08-04T05:00:00Z

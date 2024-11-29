@@ -1,5 +1,5 @@
 ---
-title: "2do Año"
+title: "Ciencias de Datos"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
 image: "/images/1er Cuatrimestre.png"
 date: 2022-07-04T05:00:00Z

@@ -1,5 +1,6 @@
 ---
-description: "1ER CUATRIMESTRE"
+title: "Ciencias Físicas"
+description: "Estudiar biología en Exactas UBA supone iniciarse en el conocimiento de la vida desde sus estructuras más básicas, desde las moléculas y las células."
 image: "/images/gato.png"
 date: 2022-04-04T05:00:00Z
 draft: false

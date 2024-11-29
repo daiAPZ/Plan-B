@@ -1,4 +1,4 @@
 ---
-title: "Ingenieria en informatica"
-description: "1er Cuatrimestre"
+title: "Carreras de Grado:"
+description: ""
 ---
