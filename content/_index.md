@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Bienvenidos
-  content: en esta pagina iremos ayudandoles a persoalizar su plan de estudios...(cambiar despues se encuentra en _index.md)
-  image: /images/facultad_de_ciencias_exactas_y_naturales.jpg
+  # title: Bienvenidos 
+  # content: en esta pagina iremos ayudandoles a persoalizar su plan de estudios...(cambiar despues se encuentra en _index.md)
+  image: /images/exactasuba.jpg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -35,12 +35,12 @@ banner:
 #   description: ""
 
 # call_to_action
-call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: "/images/cta.svg"
-  button:
-    enable: true
-    label: "Contact Us"
-    link: "/contact"
+# call_to_action:
+#   title: Ready to get started?
+#   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+#   image: "/images/cta.svg"
+#   button:
+#     enable: true
+#     label: "Contact Us"
+#     link: "/contact"
 ---

@@ -7,7 +7,7 @@ const HomeBanner = ({ banner }) => {
     <section className="section pb-[50px]">
       <div className="container">
         <div className="row text-center">
-          <div className="mx-auto lg:col-10">
+          <div className="mx-auto lg:col-100"> 
             <h1 className="font-primary font-bold">{banner.title}</h1>
             <p className="mt-4">{markdownify(banner.content)}</p>
             {banner.button.enable && (
@@ -20,9 +20,9 @@ const HomeBanner = ({ banner }) => {
               </Link>
             )}
             <Image
-              className="mx-auto mt-12"
+              className="mx-auto mt-0"//altura de la imagen
               src={banner.image}
-              width={750}
+              width={5000} //aca se agranda la imagen de home
               height={390}
               alt="banner image"
               priority

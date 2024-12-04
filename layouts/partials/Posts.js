@@ -41,7 +41,7 @@ const Posts = ({ posts }) => {
               href={`/${blog_folder}/${posts[0].slug}`}
               rel=""
             >
-              jesica
+              INGRESAR
             </Link>
           </div>
         </div>
@@ -71,7 +71,7 @@ const Posts = ({ posts }) => {
             href={`/${blog_folder}/${post.slug}`}
             rel=""
           >
-            aymara
+            INGRESAR
           </Link>
         </div>
       ))}

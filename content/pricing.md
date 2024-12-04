@@ -1,9 +1,9 @@
 ---
-title: Pricing
+title: ya vere que agregar aca
 layout: pricing
 draft: false
 plans:
-  - title: Basic Plan
+  - title: carolina xd
     subtitle: Best For Small Individuals
     price: 49
     type: month
@@ -27,12 +27,12 @@ plans:
       label: Get started
       link: "/contact"
 
-call_to_action:
-  title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: "/images/cta.svg"
-  button:
-    enable: true
-    label: "Contact Us"
-    link: "/contact"
+# call_to_action:
+#   title: Need a larger plan?
+#   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+#   image: "/images/cta.svg"
+#   button:
+#     enable: true
+#     label: "Contact Us"
+#     link: "/contact"
 ---

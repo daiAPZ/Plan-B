@@ -6,9 +6,7 @@ date: 2022-07-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
-
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+La licenciatura en Ciencias de Datos (LCD) es una carrera nueva en nuestro país y representa una respuesta de nuestra Facultad a las grandes transformaciones y avances científicos, tecnológicos y sociales que se dieron en las últimas décadas y que generaron nuevas posibilidades para abordar el conocimiento. El acceso a grandes volúmenes de datos, el crecimiento en la capacidad de cómputo y almacenamiento, la conectividad, cambiaron de raíz la potencialidad del análisis numérico, de la inteligencia artificial. Nuevas posibilidades traen nuevos desafíos, y ese es el escenario que da origen a la Licenciatura en Ciencias de Datos.
 
 # Heading 1
 

@@ -10,14 +10,18 @@
     },
     {
       "name": "Asignaturas",
-      "url": "/pricing"
+      "url": "/Asignaturas"
     },
     {
-      "name": "Contact",
+      "name": "Iniciar seccion",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
+      "name": "pagos?",
+      "url": "/pricing"
+    },
+    {
+      "name": "preguntas frecuentes¿",
       "url": "/faq"
     }
   ],

@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Asignaturas segun la carrera"
 layout: "contact"
 draft: false
 info: 
