@@ -1,9 +1,9 @@
 {
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "",
-  "youtube": "",
-  "linkedin": "https://linkedin.com/",
+  "facebook": "https://es-la.facebook.com/UBAExactas/",
+  "twitter": "https://x.com/exactas_uba",
+  "instagram": "https://www.instagram.com/exactas_uba/",
+  "youtube": "https://www.youtube.com/@ExactasUBAoficial",
+  "linkedin": "",
   "github": "",
   "gitlab": "",
   "discord": "",
@@ -27,6 +27,6 @@
   "email": "",
   "phone": "",
   "address": "",
-  "skype": "https://skype.com/",
+  "skype": "",
   "website": ""
 }

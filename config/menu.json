@@ -9,10 +9,7 @@
       "url": "/blogs"
     },
     {
-      "name": "Asignaturas",
-      "url": "/Asignaturas"
-    },
-    {
+
       "name": "Iniciar seccion",
       "url": "/contact"
     },
@@ -27,48 +24,18 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "INTEGRANTES",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
+          "text": "AYMARA",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "JESICA",
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
-      "menu": [
-        {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Privacy Policy",
-          "url": "#"
-        },
-        {
-          "text": "Terms & Conditions",
+          "text": "DAIANA",
           "url": "#"
         }
       ]
