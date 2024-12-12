@@ -1,6 +1,5 @@
 ---
 title: "Ciencias Matemáticas"
-description: "Estudiar biología en Exactas UBA supone iniciarse en el conocimiento de la vida desde sus estructuras más básicas, desde las moléculas y las células."
 image: "/images/9.png"
 date: 2022-04-04T05:00:00Z
 draft: false

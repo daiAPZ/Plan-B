@@ -1,6 +1,6 @@
 ---
 title: "Ciencias de Datos"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+description: ""
 image: "/images/1.png"
 date: 2022-07-04T05:00:00Z
 draft: false

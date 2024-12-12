@@ -1,6 +1,6 @@
 ---
 title: "Ciencias de la Computación"
-description: "en este espacio..."
+description: ""
 image: "/images/4.png"
 date: 2022-08-04T05:00:00Z
 draft: false

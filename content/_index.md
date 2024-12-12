@@ -2,7 +2,7 @@
 banner:
   # title: Bienvenidos 
   # content: en esta pagina iremos ayudandoles a persoalizar su plan de estudios...(cambiar despues se encuentra en _index.md)
-  image: /images/uba_BIENVENIDOS.jpg
+  image: /images/BIENVENIDOS.png
   button:
     label: "Contact Us"
     link: "/contact"
