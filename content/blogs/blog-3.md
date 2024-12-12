@@ -16,8 +16,6 @@ Los profesionales formados en esta carrera están preparados para trabajar en or
 
 El campo de las Ciencias de la Atmósfera es fundamental en la actualidad debido a la creciente importancia de la sostenibilidad ambiental y la necesidad de comprender el impacto de las actividades humanas sobre el clima global. Esta carrera es ideal para aquellos que se interesan por el estudio de la Tierra, la física del clima y la resolución de problemas ambientales complejos.
 
-## Plan de estudio: 
-## Ciencias de la Atmósfera
+## Plan de estudio:
 
 [![plan de estudio CDLA](/images/CDLA_plan_de_estudios.png)](https://exactas.uba.ar/wp-content/uploads/2022/08/Guia-Atmosfera-2022.pdf)
-
