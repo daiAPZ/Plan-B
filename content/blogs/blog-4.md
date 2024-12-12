@@ -12,7 +12,6 @@ Esta carrera tiene un enfoque práctico, con una fuerte presencia de proyectos y
 
 El área de Ciencias de la Datos es fundamental en la actualidad, ya que su aplicación en la toma de decisiones, la optimización de procesos y el desarrollo de nuevos productos y servicios es clave en la transformación digital que atraviesa a todos los sectores de la sociedad. Esta carrera, por lo tanto, ofrece una excelente oportunidad para quienes están interesados en la programación, el análisis matemático y la resolución de problemas complejos basados en datos.
 
-## Plan de estudio: 
-## Ciencias de Datos
+## Plan de estudio:
 
 [![plan de estudio CD](/images/CD_plan_de_estudios.png)](https://lcd.exactas.uba.ar/materias/)

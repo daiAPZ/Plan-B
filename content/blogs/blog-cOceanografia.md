@@ -5,20 +5,15 @@ image: "/images/6.png"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
-La carrera de Ciencias Físicas ofrece una formación rigurosa y profunda en los principios fundamentales que rigen el universo, desde las partículas más pequeñas hasta los fenómenos más vastos del cosmos. Los estudiantes de esta carrera exploran las leyes de la física que explican cómo funciona la materia y la energía, y aprenden a aplicar estos conocimientos para resolver problemas en una amplia variedad de campos.
 
-A lo largo de la carrera, los estudiantes adquieren una sólida base en las principales ramas de la física, como la mecánica, la termodinámica, la electromagnetismo, la física cuántica, la relatividad y la física estadística. Además, se entrenan en el uso de herramientas matemáticas avanzadas, programación, y experimentación en laboratorios, lo que les permite entender tanto los aspectos teóricos como los prácticos de los fenómenos físicos.
+La oceanografía es mucho más que solo el estudio del agua del mar. Incluye a los seres vivos que lo habitan, las costas, la atmósfera, y la química del océano. Es una ciencia que conecta diversas áreas del conocimiento para entender el mar en su totalidad.
 
-El enfoque académico de la Ciencias Físicas en la UBA se caracteriza por su orientación hacia la investigación. Los estudiantes tienen la oportunidad de trabajar en proyectos de investigación en física teórica y experimental, en colaboración con los principales grupos de investigación de la facultad, lo que les permite estar a la vanguardia de los avances científicos.
+Los océanos tienen un enorme potencial económico. Pueden generar energía a partir de las mareas y las olas, ser una fuente de pesca, permitir la navegación marítima y hasta servir como recurso alimentario con el plancton. Por eso, los oceanógrafos trabajan junto a expertos de muchas disciplinas para encontrar soluciones a problemas específicos relacionados con el mar.
 
-El programa de esta carrera está diseñado para aquellos interesados en el estudio profundo de los fenómenos naturales y que buscan entender cómo las leyes fundamentales de la naturaleza se aplican a una amplia gama de situaciones, desde la física de partículas hasta la astrofísica. Los graduados de Ciencias Físicas están capacitados para trabajar en diversas áreas, como la investigación científica, la industria, la tecnología, la educación, la ingeniería y el desarrollo de nuevas tecnologías.
+La carrera de Licenciatura en Ciencias Oceanográficas es una opción única en el país. A lo largo de la carrera, se estudian temas como física, química, matemáticas, estadísticas, y se profundiza en áreas más específicas, como las mareas y la circulación general del océano. Esta licenciatura tiene un enfoque en la oceanografía física.
 
-La formación en física también brinda a los egresados las herramientas para enfrentar los desafíos del futuro en campos como la energía, las tecnologías emergentes, la biomedicina y el cambio climático. Si tienes una mente curiosa, te atrae la resolución de problemas complejos y te interesa comprender los principios fundamentales que rigen el universo, Ciencias Físicas en la UBA es una carrera ideal para ti.
+## Plan de estudio:
 
+[![plan de estudio O](/images/O_plan_de_estudio.png)](http://www-atmo.at.fcen.uba.ar/plan_ocean.php)
 
-## Plan de estudio: 
-## Ciencias Fisicas
-
-[![plan de estudio CF](/images/CF_plan_de_estudios(1).png)](https://exactas.uba.ar/wp-content/uploads/2015/12/Plan-de-Estudios-Lic.-en-Ciencias-Fisicas-opci%C3%B3n-A.pdf)
-
-![plan de estudio CF](/images/CF_plan_de_estudios(2).png)
+![plan de estudio O](</images/O_plan_de_estudio2).png>)
