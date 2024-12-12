@@ -7,20 +7,20 @@ const Footer = () => {
   const { copyright, footer_content } = config.params;
 
   return (
-    <footer className="section bg-theme-light pb-0 relative"> 
+    <footer className="section bg-theme-light pb-4 pt-4 relative"> 
       <div className="container">
-        {/* Mensajes en linea*/}
-        <div className="row mb-6">
+        {/* Mensajes en línea*/}
+        <div className="row mb-4 mt-4"> 
           <div className="col-12 text-center">
-            {/* linea 1 */}
-            <p className="text-2xl font-bold text-white mb-2">
+            {/* línea 1 */}
+            <p className="text-2xl font-bold text-white mb-1">
               Facultad de Ciencias Exactas y Naturales - UBA
             </p>
-            {/* linea 2 */}
-            <p className="text-2xl font-bold text-white mb-2">
+            {/* línea 2 */}
+            <p className="text-1xl font-bold text-white mb-1">
               Av. Int. Cantilo, C1428 Cdad. Autónoma de Buenos Aires
             </p>
-            {/* linea 3*/}
+            {/* línea 3 */}
             <p className="text-2xl font-bold text-black">
               Hecho con 💕 por ETEC-UBA
             </p>
@@ -28,13 +28,13 @@ const Footer = () => {
         </div>
 
         {/* Copyright */}
-        <div className="text-center py-6">
+        <div className="text-center py-4">
           {markdownify(copyright, "p", "text-sm")}
         </div>
       </div>
 
-      {/* icons */}
-      <div className="absolute bottom-0 right-0 p-6">
+      {/* Icons */}
+      <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 p-4">
         <Social source={social} className="social-icons" />
       </div>
     </footer>
